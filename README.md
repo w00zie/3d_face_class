@@ -68,6 +68,7 @@ python 3.7.7
 torch 1.5.1
 torch_geometric 1.6.0
 tensorboard 2.2.2
+scipy 1.5.1
 numpy 1.18.5
 scikit-learn 0.23.1
 trimesh 3.8.8
