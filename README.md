@@ -37,7 +37,7 @@ This is an example of the data I've dealt with
 
 ## The model
 
-TODO
+You can look at my [slides](cg3d_presentation.pdf) to gain insights about the (simple) model(s) I've coded.
 
 ## Running a new experiment
 
